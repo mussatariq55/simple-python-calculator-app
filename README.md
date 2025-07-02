@@ -1,3 +1,6 @@
+
+![download](https://github.com/user-attachments/assets/3cd513c4-1aee-420b-8c48-2b1d5e184e71)
+
 # 🧮 Simple Calculator App
 
 A beginner-friendly calculator app built with Python that allows users to perform basic arithmetic operations—addition, subtraction, multiplication, and division—within an interactive loop. Users can continue calculations using the previous result or start a new calculation.
